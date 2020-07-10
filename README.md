@@ -1,4 +1,4 @@
-# Comp 115
+# Comp 115 (Robots, Games, and Problem Solving)
 
 Projects from my first programming class
 
