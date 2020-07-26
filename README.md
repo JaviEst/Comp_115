@@ -3,7 +3,7 @@
 Projects from my first programming class
 
 
-# Project 4
+## Project 4
 
 <pre>
 Project 4.pdf -> Assignment 
@@ -12,7 +12,7 @@ test_4.txt    -> Input file to test program
 <pre/>
 
 
-# Project 6
+## Project 6
 
 <pre>
 Project 6.pdf -> Assignment 
