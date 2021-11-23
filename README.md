@@ -1,6 +1,6 @@
 # Comp 115 (Robots, Games, and Problem Solving)
 
-Projects from my first programming class
+Somo projects from my first programming class
 
 
 ## Project 4 (Convertion from Binary to Decimal and vice versa)
